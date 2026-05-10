@@ -1,10 +1,10 @@
-# QR Code Produtor
+# Produtor de QR Code
 
-Projeto em Python para gerar QR Codes e adesivos de identificacao em massa.
+Projeto em Python para gerar QR Codes e adesivos de identificação em massa.
 
 ## Contexto
 
-Foi pensado para uso operacional em prefeitura, permitindo identificar problemas em postes de iluminacao publica por meio de QR Codes e contato via WhatsApp.
+Foi pensado para uso operacional na prefeitura de Santo Antônio da Barra, permitindo identificar problemas em postes de iluminação pública por meio de QR Codes e contato via WhatsApp.
 
 ## Funcionalidades
 

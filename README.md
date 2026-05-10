@@ -8,17 +8,17 @@ Foi pensado para uso operacional na prefeitura de Santo Antônio da Barra, permi
 
 ## Funcionalidades
 
-- Geracao de QR Code por identificador de poste
-- Montagem de adesivos com layout pronto para impressao
+- Geração de QR Code por identificador de poste
+- Montagem de adesivos com layout pronto para impressão
 - Uso de logos e assets locais
-- Saida de imagens para distribuicao em campo
+- Saida de imagens para distribuição em campo
 
 ## Arquivos principais
 
 - `produtorqr.py`
 - `gerar_adesivos.py`
 
-## Dependencias
+## Dependências
 
 O projeto usa bibliotecas como:
 
@@ -27,4 +27,4 @@ O projeto usa bibliotecas como:
 
 ## Saida
 
-Os arquivos gerados sao gravados em `output/`.
+Os arquivos gerados são gravados em `output/`.

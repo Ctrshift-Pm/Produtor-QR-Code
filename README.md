@@ -15,7 +15,6 @@ Foi pensado para uso operacional na prefeitura de Santo Antônio da Barra, permi
 
 ## Arquivos principais
 
-- `produtorqr.py`
 - `gerar_adesivos.py`
 
 ## Dependências
